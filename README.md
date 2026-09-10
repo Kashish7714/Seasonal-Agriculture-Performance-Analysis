@@ -81,9 +81,9 @@ Built as part of the **VOIS & Vodafone Idea Foundation Data Analytics Internship
 
 ## 👤 Author
 
-**Kashish Arya**
+**Kashish **
 B.Tech CSE (AI/ML) · Vidya College of Engineering
-[GitHub](https://github.com/Kashish7714) · [LinkedIn](https://linkedin.com/in/kashish-arya-062249383)
+[GitHub](https://github.com/Kashish7714) · [LinkedIn](www.linkedin.com/in/kashish-062249383)
 
 ## 📄 License
 
